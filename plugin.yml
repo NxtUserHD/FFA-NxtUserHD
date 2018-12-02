@@ -1,0 +1,7 @@
+name: FFA
+version: 0.1
+api: 4.0.0
+main: NxtUserHD\Main
+author: NxtUserHD
+description: Ein Simples MiniGame {FreeForAll}
+website: http://Zyntoxien.net
